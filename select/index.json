@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "disc.",
+  "base_artist": "SnapSound feat. しゅう",
+  "createdAt": "2026-02-20T18:01:11.599734Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sweet Emotion (Kerrang! flexi disc)",
+      "artist": "Faith No More",
+      "has_synced": false,
+      "path": "select/01_Sweet_Emotion_(Kerrang!_flexi_disc)_Faith_No_More.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Señor Disc Jockey",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/02_Señor_Disc_Jockey_Los_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Señor Disc-Jockey",
+      "artist": "Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/03_Señor_Disc-Jockey_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Master (Disc 3) (03) Mercy Mercy Me (The Ecology)",
+      "artist": "Gaye, Marvin",
+      "has_synced": true,
+      "path": "select/04_The_Master_(Disc_3)_(03)_Mercy_Mercy_Me_(The_Ecology)_Gaye,_Marvin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Master (Disc 3) (04) Inner City Blues (Make Me Wanna Holler)",
+      "artist": "Gaye, Marvin",
+      "has_synced": true,
+      "path": "select/05_The_Master_(Disc_3)_(04)_Inner_City_Blues_(Make_Me_Wanna_Holler)_Gaye,_Marvin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Master (Disc 3) (05) I'm Going Home",
+      "artist": "Gaye, Marvin",
+      "has_synced": false,
+      "path": "select/06_The_Master_(Disc_3)_(05)_I'm_Going_Home_Gaye,_Marvin.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Master (Disc 3) (06) Piece Of Clay",
+      "artist": "Gaye, Marvin",
+      "has_synced": true,
+      "path": "select/07_The_Master_(Disc_3)_(06)_Piece_Of_Clay_Gaye,_Marvin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Master (Disc 3) (17) After The Dance",
+      "artist": "Gaye, Marvin",
+      "has_synced": true,
+      "path": "select/08_The_Master_(Disc_3)_(17)_After_The_Dance_Gaye,_Marvin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Le Disc-Jockey (radio edit)",
+      "artist": "Encore!",
+      "has_synced": false,
+      "path": "select/09_Le_Disc-Jockey_(radio_edit)_Encore!.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Destructo Disc",
+      "artist": "Jasiah",
+      "has_synced": true,
+      "path": "select/10_Destructo_Disc_Jasiah.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Still Waiting (disc 1)",
+      "artist": "Sum 41",
+      "has_synced": true,
+      "path": "select/11_Still_Waiting_(disc_1)_Sum_41.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Alpha Kappa Fall Of Troy The Movie Part Deux (2 Disc Director's Cut)",
+      "artist": "Modern Baseball",
+      "has_synced": false,
+      "path": "select/12_Alpha_Kappa_Fall_Of_Troy_The_Movie_Part_Deux_(2_Disc_Director's_Cut)_Modern_Baseball.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Alpha Kappa Fall of Troy the Movie Part Deux (2 Disc Directors Cut)",
+      "artist": "Modern Baseball",
+      "has_synced": true,
+      "path": "select/13_Alpha_Kappa_Fall_of_Troy_the_Movie_Part_Deux_(2_Disc_Directors_Cut)_Modern_Baseball.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "disc. (Sped Up)",
+      "artist": "SnapSound feat. しゅう",
+      "has_synced": false,
+      "path": "select/pl_01_disc._(Sped_Up)_SnapSound_feat._しゅう.txt"
+    }
+  ]
+}
